@@ -12,4 +12,8 @@ Résultat: le site marche ! Le design est peut être à revoir, mais au moins :
 - Les requêtes SQL s'effectuent correctement
 
 
+![image](https://user-images.githubusercontent.com/90056309/151716669-b84c15d6-10bb-402d-b4b1-4ad81ff87d30.png)
+
+
 Au final, je suis assez content de ce projet. Il m'a permis de beaucoup apprendre sur le PHP et son mode de fonctionnement.
+
