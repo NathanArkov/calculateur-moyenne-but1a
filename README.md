@@ -1,4 +1,4 @@
-# calculateur-moyenne-but1a
+# Calculateur de Moyenne BUT INFO (PHP, SQL, HTML, CSS)
 Challenge 1 week - Site en PHP permettant le calcul de sa moyenne
 
 Je me suis lancé le défi de développer en une semaine un site construit grâce à PHP, me permettant à moi et mes camarades de classe de calculer nos moyennes pour chaque semestre, étant donné que les calculs sont plutôt complexes et que **personne** n'a envie de faire un tableau Excel.
